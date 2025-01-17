@@ -1,9 +1,10 @@
 ## ⭐️ A collection of some fun stuff ⭐️
 
 ### Interesting Blogs
-* https://openbao.org/blog/
 * https://paulgraham.com/icad.html
+* https://blog.veritates.love
 * https://diaryofarjun.com
+* https://openbao.org/blog/
 
 ### PKI Papers
 * https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf
