@@ -33,3 +33,7 @@ _Dislaimer: The articles listed have not been personally verified by me, nor hav
 * https://www.darkreading.com/
 * https://tryhackme.com
 * https://bots.splunk.com/
+
+### 
+* https://cryptopals.com
+* https://projecteuler.net/archives
