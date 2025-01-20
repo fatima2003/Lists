@@ -1,10 +1,12 @@
 ## ⭐️ A collection of some fun stuff ⭐️
+_Note: The order of the lists are random._
 
 ### Interesting Blogs
 * https://paulgraham.com/icad.html
 * https://blog.veritates.love
 * https://diaryofarjun.com
 * https://openbao.org/blog/
+* http://nedbatchelder.com
 
 ### PKI Papers
 * https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf
