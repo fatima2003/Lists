@@ -26,6 +26,7 @@ _Dislaimer: The articles listed have not been personally verified by me, nor hav
 * https://math.stackexchange.com/questions/2187858/example-of-difficult-base-for-the-lattice-problems
 * https://www.idquantique.com/id-quantique-partners-with-fortinet-to-commercialize-a-quantum-safe-vpn-solution/
 * https://www.nccgroup.com/us/research-blog/real-world-cryptography-conference-2024/
+* https://openssl-library.org/post/2025-01-21-blog-positionandplans/
 
 ### Tutorials
 * https://vpnoverview.com/vpn-information/build-your-own-vpn/
