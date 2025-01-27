@@ -11,12 +11,13 @@ _Note: The order of the lists are random._
 ### PKI Papers
 * https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf
 
-### Cryptography Papers
+### Cryptography Papers & Docs
 * https://cims.nyu.edu/~regev/papers/qcrypto.pdf
 * https://ipnpr.jpl.nasa.gov/progress_report/42-44/44N.PDF
 * http://www.ralphmerkle.com/papers/Thesis1979.pdf
 * https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
 * https://core.ac.uk/download/pdf/144828958.pdf
+* https://www.ibm.com/docs/en/informix-servers/15.0.0?topic=keystores-concepts-keys-certificates-tls
 
 ### PQC Articles
 _Dislaimer: The articles listed have not been personally verified by me, nor have I checked if they are peer-reviewed._
