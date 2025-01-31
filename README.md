@@ -1,7 +1,7 @@
 ## ⭐️ A collection of some fun stuff ⭐️
 _Note: The order of the lists are random._
 
-### Interesting Blogs
+### Interesting Bloggers
 * https://paulgraham.com/icad.html
 * https://blog.veritates.love
 * https://diaryofarjun.com
@@ -18,6 +18,10 @@ _Note: The order of the lists are random._
 * https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
 * https://core.ac.uk/download/pdf/144828958.pdf
 * https://www.ibm.com/docs/en/informix-servers/15.0.0?topic=keystores-concepts-keys-certificates-tls
+* https://eprint.iacr.org/2013/647.pdf
+
+### Crypto Resources
+* https://safecurves.cr.yp.to
 
 ### PQC Articles
 _Dislaimer: The articles listed have not been personally verified by me, nor have I checked if they are peer-reviewed._
@@ -39,3 +43,5 @@ _Dislaimer: The articles listed have not been personally verified by me, nor hav
 * https://bots.splunk.com/
 * https://cryptopals.com
 * https://projecteuler.net/archives
+
+
