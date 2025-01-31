@@ -2,10 +2,10 @@
 _Note: The order of the lists are random._
 
 ### Interesting Bloggers
-* https://paulgraham.com/icad.html
+* https://paulgraham.com
 * https://blog.veritates.love
 * https://diaryofarjun.com
-* https://openbao.org/blog/
+* https://openbao.org/blog
 * http://nedbatchelder.com
 
 ### PKI Papers
