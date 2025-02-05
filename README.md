@@ -7,6 +7,7 @@ _Note: The order of the lists are random._
 * https://diaryofarjun.com
 * https://openbao.org/blog
 * http://nedbatchelder.com
+* https://n0rdy.foo
 
 ### PKI Papers
 * https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf
