@@ -44,9 +44,11 @@ _Dislaimer: The articles listed have not been personally verified by me, nor hav
 * https://bots.splunk.com/
 * https://cryptopals.com
 * https://projecteuler.net/archives
-
+* 
 ### Some lovely Hugo themes
 * https://themes.gohugo.io/themes/neopost/
 * https://themes.gohugo.io/themes/github-style/
 * https://themes.gohugo.io/themes/hugo-texify3/
 
+### Golang Resources
+* Free online textbook: https://go101.org
