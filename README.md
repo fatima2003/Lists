@@ -8,6 +8,8 @@ _Note: The order of the lists are random._
 * https://openbao.org/blog
 * http://nedbatchelder.com
 * https://n0rdy.foo
+* https://airtower.wordpress.com
+* https://adnanthekhan.com
 
 ### PKI Papers
 * https://www.cs.auckland.ac.nz/~pgut001/pubs/pkitutorial.pdf
